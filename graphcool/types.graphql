@@ -40,3 +40,4 @@ type File @model{
   user: User @relation(name: "UserPhoto")
   chat: Chat @relation(name: "ChatPhoto")
 }
+
